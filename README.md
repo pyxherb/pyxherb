@@ -1,6 +1,6 @@
 # Hi There 👋
 
-Just a nobody individual developer.
+I'm just a common individual developer.
 
 [![Pyxherb's Github stats](https://github-readme-stats.vercel.app/api?username=pyxherb&show_icons=true)](https://github.com/pyxherb)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyxherb&layout=compact)](https://github.com/pyxherb)
@@ -15,5 +15,7 @@ Just a nobody individual developer.
 ### About the Name
 
 The name "Pyxherb" is from "匚艹" where the "匚" means "box, container" and the "艹" means "grass, herb".
+
+"匚艹" imitates the shape of "C++".
 
 The old name "CodesBuilder" was obsoleted in 2023.
