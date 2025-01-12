@@ -1,6 +1,6 @@
 # Hi There 👋
 
-I'm just a common individual developer.
+I have nothing to say, let's take a look at the projects.
 
 [![Pyxherb's Github stats](https://github-readme-stats.vercel.app/api?username=pyxherb&show_icons=true)](https://github.com/pyxherb)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyxherb&layout=compact)](https://github.com/pyxherb)
@@ -18,4 +18,4 @@ The name "Pyxherb" is from "匚艹" where the "匚" means "box, container" and t
 
 "匚艹" imitates the shape of "C++".
 
-The old name "CodesBuilder" was obsoleted in 2023.
+"CodesBuilder" is an old name which was obsoleted in 2023.
