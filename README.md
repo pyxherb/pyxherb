@@ -1,6 +1,6 @@
 # Hi There 👋
 
-Nothing.
+Nothing to say, nothing to show, how sad.
 
 [![Pyxherb's Github stats](https://github-readme-stats.vercel.app/api?username=pyxherb&show_icons=true)](https://github.com/pyxherb)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyxherb&layout=compact&langs_count=8)](https://github.com/pyxherb)
