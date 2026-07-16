@@ -1,21 +1,26 @@
 # Hi There 👋
 
-Nothing to say, nothing to show, how sad.
+I'm Pyxherb, just a mediocre developer who was left behind in the shadow by the times.
+
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=f0f0f0)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=f0f0f0)
+![Rust](https://img.shields.io/badge/-Rust-dea584?style=for-the-badge&logo=rust&logoColor=dea584&labelColor=gray)
+![Debian](https://img.shields.io/badge/-Debian-a80030?style=for-the-badge&logo=debian&logoColor=a80030&labelColor=f0f0f0)
+![GIMP](https://img.shields.io/badge/-GIMP-8c8073?style=for-the-badge&logo=gimp&logoColor=8c8073&labelColor=f0f0f0)
+![Blender](https://img.shields.io/badge/-Blender-f4792b?style=for-the-badge&logo=blender&logoColor=0e548b&labelColor=f0f0f0)
+![React](https://img.shields.io/badge/-React-087ea4?style=for-the-badge&logo=react&logoColor=087ea4&labelColor=f0f0f0)
+![GitHub followers](https://img.shields.io/github/followers/pyxherb?logo=GitHub&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/pyxherb?logo=Github&style=for-the-badge)
 
 [![Pyxherb's Github stats](https://github-readme-stats.vercel.app/api?username=pyxherb&show_icons=true)](https://github.com/pyxherb)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyxherb&layout=compact&langs_count=8)](https://github.com/pyxherb)
 
 ## Featured Projects
 
-[![Slake](https://github-readme-stats.vercel.app/api/pin/?username=pyxherb&repo=slake)](https://github.com/pyxherb/slake)
-[![Clench](https://github-readme-stats.vercel.app/api/pin/?username=pyxherb&repo=clench)](https://github.com/pyxherb/clench)
+See our featured projects and find something surprise!
 
-## Trivia and Anecdotes
+[PEFF](https://github.com/pyxherb/peff) - The portable supplementary exceptionless (std::bad_alloc is also eliminated) library.
 
-### About the Name
+[Slake](https://github.com/pyxherb/slake) - An embeddable programming language.
 
-The name "Pyxherb" is from "匚艹" where the "匚" means "box, container" and the "艹" means "grass, herb".
-
-"匚艹" imitates the shape of "C++".
-
-"CodesBuilder" is an old name which was obsoleted in 2023.
+[PbOS](https://github.com/pyxherb/pbos) - An experimental operating system, now is still under our hard development.
