@@ -9,6 +9,7 @@ I'm Pyxherb, just a mediocre developer who was left behind in the shadow by the 
 ![GIMP](https://img.shields.io/badge/-GIMP-8c8073?style=for-the-badge&logo=gimp&logoColor=8c8073&labelColor=f0f0f0)
 ![Blender](https://img.shields.io/badge/-Blender-f4792b?style=for-the-badge&logo=blender&logoColor=0e548b&labelColor=f0f0f0)
 ![React](https://img.shields.io/badge/-React-087ea4?style=for-the-badge&logo=react&logoColor=087ea4&labelColor=f0f0f0)
+
 ![GitHub followers](https://img.shields.io/github/followers/pyxherb?logo=GitHub&style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/pyxherb?logo=Github&style=for-the-badge)
 
