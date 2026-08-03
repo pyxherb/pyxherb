@@ -17,7 +17,6 @@ I'm Pyxherb, just a mediocre developer who was left behind in the shadow by the 
 
 ![GitHub followers](https://img.shields.io/github/followers/pyxherb?logo=GitHub&style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/pyxherb?logo=Github&style=for-the-badge)
-![Crazy Thursday](https://img.shields.io/badge/-V_Me_¥50-F40027?style=for-the-badge&logo=KFC&logoColor=F40027&labelColor=f0f0f0)
 
 [![Pyxherb's Github stats](https://github-readme-stats.vercel.app/api?username=pyxherb&show_icons=true)](https://github.com/pyxherb)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyxherb&layout=compact&langs_count=8)](https://github.com/pyxherb)
