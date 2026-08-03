@@ -29,4 +29,4 @@ See our featured projects and find something surprise!
 
 [Slake](https://github.com/pyxherb/slake) - An embeddable programming language.
 
-<del cite="This project has moved to private development"><a href="#">PbOS</a> - An experimental operating system, now is still under our hard development.</del> (Now has moved to private development stage)
+<del cite="This project has moved to private development"><a href="#">PbOS</a> - An experimental operating system, now is still under our hard development.</del> (Now has moved to internal opaque development stage)
